@@ -1,0 +1,44 @@
+[
+    {
+        "service_name": "Portrait Photography.",
+        "banner": "https://www.lookslikefilm.com/wp-content/uploads/2021/01/Rebecca-Burt-www.rebeccaburtphotography.com_.jpg",
+        "description": "Portrait photography, or portraiture, is a type of photography aimed toward capturing the personality of a person or group of people by using effective lighting, backdrops, and poses.[1] A portrait photograph may be artistic or clinical.[1] Frequently, portraits are commissioned for special occasions, such as weddings, school events, or commercial purposes.[1] Portraits can serve many purposes, ranging from usage on a personal web site to display in the lobby of a business.",
+        "rent": "1.5"
+
+    },
+    {
+        "service_name": "Photojournalism",
+        "banner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDbiu8Vy3KB9lIGxL0HjzMS_yopbqQf5slRA&usqp=CAU",
+        "description": "Photojournalism is journalism that uses images to tell a news story. It usually only refers to still images, but can also refer to video used in broadcast journalism. Photojournalism is distinguished from other close branches of photography (such as documentary photography, social documentary photography, war photography, street photography and celebrity photography) by having a rigid ethical framework which demands an honest but impartial approach that tells a story in strictly journalistic terms. Photojournalists contribute to the news media, and help communities connect with one other. They must be well-informed and knowledgeable, and are able to deliver news in a creative manner that is both informative and entertaining. Similar to a writer, a photojournalist is a reporter, but they must often make decisions instantly and carry photographic equipment, often while exposed to significant obstacles, among them immediate physical danger, bad weather, large crowds, and limited physical access to their subjects.",
+        "rent": "2.7"
+
+    },
+    {
+        "service_name": "Catalog Photography.",
+        "banner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHwJWD_TC_GJbXHz79hcn5XmGMfAUzUjJypA&usqp=CAU",
+        "description": "Catalogue photography has an impression of the simplest photography styles. Its objective is to sell what it displays (product photographs, product images) and focuses on brand image. The key point difference between catalogue photography and product photography is the substitution of the model.",
+        "rent": "2.2"
+
+    },
+    {
+        "service_name": "High Fashion.",
+        "banner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFzBfbAf4dSeLyQ5mfS7SLaOB1aurjDvQxZg&usqp=CAU",
+        "description": "Britannica Dictionary definition of HIGH FASHION. [noncount] 1. : the newest fashions that are usually bought by only a small number of people. boutiques that sell high fashion to the very wealthy. High fashion - more eloquently known as haute couture - is the creation of exclusive clothing made from exceptionally high quality fabric and sewn with expert finesse by trained hands. ",
+        "rent": "2.9"
+
+    },
+    {
+        "service_name": "Street Fashion.",
+        "banner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfTj16sELB8hc09BjMc93QODgXyjskZ7_sSw&usqp=CAU",
+        "description": "The toughest aspect of street photography, when learning it for the first time, is the fear involved. Fear can make it so difficult, and even when you get to the point of being comfortable photographing strangers, the fear can make you tentative enough to just miss the shot. street photography, a genre of photography that records everyday life in a public place. The very publicness of the setting enables the photographer to take candid pictures of strangers, often without their knowledge.",
+        "rent": "1.9"
+
+    },
+    {
+        "service_name": "Editorial Fashion.",
+        "banner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHF_fp9zcjVLtQIC6xHytQStzNWKJAxusvbA&usqp=CAU",
+        "description": "A fashion editorial is, in essence, a creative material. Its main function is to translate the inspirational elements of the creative stage in an equally creative way. What Is the Difference Between Fashion and Editorial Photography? Fashion and commercial photography try to sell a product. Editorial photography focuses more on storytelling than on advertisements. Even though editorial photography features different brands, its goal is to sell a story.",
+        "rent": "3.2"
+
+    }
+]
